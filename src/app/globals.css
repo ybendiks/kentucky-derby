@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-derby-green: #1a3c2a;
+  --color-derby-green-light: #2d5a3f;
+  --color-derby-green-dark: #0f2419;
+  --color-derby-gold: #c9a84c;
+  --color-derby-gold-light: #e0c97a;
+  --color-derby-cream: #faf8f0;
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-playfair), ui-serif, Georgia, serif;
+}
